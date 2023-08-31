@@ -1,1 +1,5 @@
-Vous pouvez rejoindre le support officiel dn cliquant sur le lien : https://discord.gg/mbFAAQX3
+# SponsorBot
+SponsorBot à une nouvelle version mais nous l'open source actuellement pas !
+
+# Support
+*  [Discord](https://discord.gg/utsFas885D)
